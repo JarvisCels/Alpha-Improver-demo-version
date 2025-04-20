@@ -36,8 +36,4 @@ Alpha‑Improver gồm các bước chính:
 
 - Việc tích hợp ONNX vào giúp cải thiện các chỉ số như Profit Ratio và Sharpe Ratio, đánh đổi là số lượng giao dịch, Net Profit và Ret/DD giảm đáng kể.
 
-- Tuy nhiên, cho dù các Features chưa được tối ưu cho Logic của EA, nhưng với các Features cơ bản Model cũng đã có thể cho ra một kết quả tiềm năng.
-
-**Kết quả Model CatBoost sau khi dùng Optuna tối ưu:**
-
-![image](https://github.com/user-attachments/assets/2d0b370c-2336-4165-9a93-8be89161362e)
+**- Tuy nhiên, cho dù các Features chưa được tối ưu cho Logic của EA, nhưng với các Features cơ bản Model cũng đã có thể cho ra một kết quả tiềm năng.**
